@@ -1,0 +1,15 @@
+C:\Users\rarig\Desktop\Pastas\Faculdade-ADS\2P- Estrutura de Dados\A01 Recursividade\bin\Debug\net7.0\A01 Recursividade.exe
+C:\Users\rarig\Desktop\Pastas\Faculdade-ADS\2P- Estrutura de Dados\A01 Recursividade\bin\Debug\net7.0\A01 Recursividade.deps.json
+C:\Users\rarig\Desktop\Pastas\Faculdade-ADS\2P- Estrutura de Dados\A01 Recursividade\bin\Debug\net7.0\A01 Recursividade.runtimeconfig.json
+C:\Users\rarig\Desktop\Pastas\Faculdade-ADS\2P- Estrutura de Dados\A01 Recursividade\bin\Debug\net7.0\A01 Recursividade.dll
+C:\Users\rarig\Desktop\Pastas\Faculdade-ADS\2P- Estrutura de Dados\A01 Recursividade\bin\Debug\net7.0\A01 Recursividade.pdb
+C:\Users\rarig\Desktop\Pastas\Faculdade-ADS\2P- Estrutura de Dados\A01 Recursividade\obj\Debug\net7.0\A01 Recursividade.csproj.AssemblyReference.cache
+C:\Users\rarig\Desktop\Pastas\Faculdade-ADS\2P- Estrutura de Dados\A01 Recursividade\obj\Debug\net7.0\A01 Recursividade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rarig\Desktop\Pastas\Faculdade-ADS\2P- Estrutura de Dados\A01 Recursividade\obj\Debug\net7.0\A01 Recursividade.AssemblyInfoInputs.cache
+C:\Users\rarig\Desktop\Pastas\Faculdade-ADS\2P- Estrutura de Dados\A01 Recursividade\obj\Debug\net7.0\A01 Recursividade.AssemblyInfo.cs
+C:\Users\rarig\Desktop\Pastas\Faculdade-ADS\2P- Estrutura de Dados\A01 Recursividade\obj\Debug\net7.0\A01 Recursividade.csproj.CoreCompileInputs.cache
+C:\Users\rarig\Desktop\Pastas\Faculdade-ADS\2P- Estrutura de Dados\A01 Recursividade\obj\Debug\net7.0\A01 Recursividade.dll
+C:\Users\rarig\Desktop\Pastas\Faculdade-ADS\2P- Estrutura de Dados\A01 Recursividade\obj\Debug\net7.0\refint\A01 Recursividade.dll
+C:\Users\rarig\Desktop\Pastas\Faculdade-ADS\2P- Estrutura de Dados\A01 Recursividade\obj\Debug\net7.0\A01 Recursividade.pdb
+C:\Users\rarig\Desktop\Pastas\Faculdade-ADS\2P- Estrutura de Dados\A01 Recursividade\obj\Debug\net7.0\A01 Recursividade.genruntimeconfig.cache
+C:\Users\rarig\Desktop\Pastas\Faculdade-ADS\2P- Estrutura de Dados\A01 Recursividade\obj\Debug\net7.0\ref\A01 Recursividade.dll
